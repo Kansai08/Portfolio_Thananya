@@ -1,7 +1,7 @@
 # Portfolio
 
 # 1. Final Project Back End
-🔗 [GitHub Repo]([https://github.com/Kansai08/Final-project-Back-End.git](https://github.com/Kansai08/BeaconProject.git))  
+🔗 [GitHub Repo](https://github.com/Kansai08/BeaconProject)  
 - **Tech:** Frontend: HTML5, CSS3, JavaScript </Br>
             Backend: PHP, RESTful API </Br>
             Database: MySQL, phpMyAdmin/MySQL Workbench </Br>
