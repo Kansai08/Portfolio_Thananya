@@ -1,6 +1,6 @@
 # Portfolio
 
-# 1. Final Project Back End
+# 1. Capstone Project
 🔗 [GitHub Repo](https://github.com/Kansai08/BeaconProject)  
 - **Tech:** Frontend: HTML5, CSS3, JavaScript </Br>
             Backend: PHP, RESTful API </Br>
